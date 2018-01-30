@@ -109,6 +109,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\loguinController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -125,6 +126,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Default\Hola.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
+    <Content Include="Views\loguin\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

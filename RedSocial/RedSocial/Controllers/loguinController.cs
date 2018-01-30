@@ -6,17 +6,10 @@ using System.Web.Mvc;
 
 namespace RedSocial.Controllers
 {
-    public class DefaultController : Controller
+    public class loguinController : Controller
     {
-        // GET: Default
+  
         public ActionResult Index()
-        {
-            ViewBag.Variable = "lo que estas enviando";
-
-            return View();
-        }
-
-        public ActionResult Hola()
         {
             return View();
         }
