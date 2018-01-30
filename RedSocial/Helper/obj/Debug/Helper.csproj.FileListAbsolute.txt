@@ -1,0 +1,6 @@
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\bin\Debug\Helper.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\bin\Debug\Helper.pdb
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\obj\Debug\Helper.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Helper\obj\Debug\Helper.pdb

@@ -1,0 +1,10 @@
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Model.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Model.pdb
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\obj\Debug\Model.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\obj\Debug\Model.pdb
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Entity.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Helper.dll
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Entity.pdb
+C:\Users\Raul\Documents\GitHub\RedSocial\RedSocial\Model\bin\Debug\Helper.pdb
